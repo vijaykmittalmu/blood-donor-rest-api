@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Anal Corn",
+        "blood_group": "A+",
+        "contact_no": 9897985552,
+        "country": "IND",
+        "email": "test@gmail.com",
+        "address": {
+            "city": "Noida",
+            "state": "Uttar Pradesh",
+            "location": "Sector 70, Noida",
+            "lat": 0.2548,
+            "lng": -0.1458,
+            "pincode": "201001"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Max Roddy",
+        "blood_group": "O-",
+        "contact_no": 741258963,
+        "country": "IND",
+        "email": "test1@gmail.com",
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "location": "Sarita Vihar, Delhi",
+            "lat": 0.2548,
+            "lng": -0.1458,
+            "pincode": "110001"
+        }
+    }
+]
